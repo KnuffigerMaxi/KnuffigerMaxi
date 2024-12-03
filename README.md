@@ -77,7 +77,7 @@ Wenn du Lust hast, mir bei meiner Programmierung zu helfen oder einfach an einem
 
 ## 📫 Kontakt
 
-- 📧 **E-Mail**: [knuffifermax@gmail.com](mailto:knuffifermax@gmail.com)  
+- 📧 **E-Mail**: [knuffigermax@gmail.com](mailto:knuffigermax@gmail.com)  
 - 🌐 **Website**: [maxi.home64.de](https://maxi.home64.de)  
 
 ---
