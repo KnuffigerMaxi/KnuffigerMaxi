@@ -1,4 +1,4 @@
-# Hi, ich bin KnuffigerMaxi! 👋
+# Hi, ich bin Maxi! 👋
 
 **Neugier trifft Technikbegeisterung** – Ich teste gerne Programme, schreibe Issues und liebe Open-Source-Projekte. Mit Herz für moderne Technologien und clevere Software... und natürlich für alles rund um Züge! 🚄
 
@@ -74,6 +74,10 @@ Viele meiner Projekte sind aus **purer Neugier** entstanden – ich wollte einfa
 - 🚂 **Zugprojekte:** [@TrainMaxi](https://github.com/TrainMaxi)
 - 💬 **Fragen zum Homelab?** Immer her damit – ich lerne ständig dazu!
 
+[![E-Mail](https://img.shields.io/badge/E--Mail-knuffigermax@gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:knuffigermax@gmail.com)
+[![Website](https://img.shields.io/badge/Website-maxi.home64.de-4E9A06?logo=firefox-browser&logoColor=white&style=for-the-badge)](https://maxi.home64.de)
+[![Matrix](https://img.shields.io/badge/Matrix-%40femboymaxi%3Atchncs.de-13B37B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@femboymaxi:tchncs.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/knuffigercarsten/)
 ---
 
 **Das Leben in vollen Zügen genießen!** 🚆
